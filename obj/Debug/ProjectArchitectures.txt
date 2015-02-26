@@ -1,0 +1,1 @@
+c:\Users\Sérgio\Source\ShortenerApp\ShortenerApp.csproj;neutral
